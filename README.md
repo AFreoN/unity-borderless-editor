@@ -1,8 +1,8 @@
 # Borderless Editor for Unity
 
-Hide the Windows title bar of the Unity Editor and swap the light native menu bar for a dark one, so the whole editor window matches the dark theme.
+Hide the Windows title bar of the Unity Editor and swap the light native menu bar for a dark one, so the whole editor window matches the dark theme and the title bar's height goes back to your workspace.
 
-<!-- TODO: add a before/after screenshot or GIF here, e.g. ![Before and after](Documentation~/before-after.png) -->
+![Borderless Editor demo: before/after, enabling the dark menu bar, hiding the title bar, dark menus](Documentation~/demo.gif)
 
 > **Windows only. Unity 6.3 (6000.3) or newer.** On macOS/Linux the scripts compile to nothing and the package does nothing.
 
