@@ -1,0 +1,15 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+
+# Note: .meta files are intentionally NOT ignored. A UPM package installed
+# from git needs them to keep stable GUIDs.

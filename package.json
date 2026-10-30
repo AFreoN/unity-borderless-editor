@@ -1,0 +1,23 @@
+{
+  "name": "com.afreon.borderless-editor",
+  "displayName": "Borderless Editor",
+  "version": "1.0.0",
+  "unity": "6000.3",
+  "description": "Hides the Windows title bar of the Unity Editor and replaces the light native menu bar with a dark one. Windows only.",
+  "keywords": [
+    "editor",
+    "editor-tool",
+    "borderless",
+    "dark-mode",
+    "menu",
+    "title-bar",
+    "windows"
+  ],
+  "author": {
+    "name": "Sahid Afridi",
+    "url": "https://afreon.dev"
+  },
+  "documentationUrl": "https://github.com/AFreoN/unity-borderless-editor#readme",
+  "changelogUrl": "https://github.com/AFreoN/unity-borderless-editor/blob/main/CHANGELOG.md",
+  "licensesUrl": "https://github.com/AFreoN/unity-borderless-editor/blob/main/LICENSE"
+}
